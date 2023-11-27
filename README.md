@@ -17,19 +17,9 @@
 
 Если у вас есть вопросы или вы хотите связаться со мной, не стесняйтесь обращаться через мои социальные сети или рабочий e-mail.
 
-## Языки и средства программирования
-
-- SQL
-- MySQL
-- Python
-- PyCharm
-- Visual Studio Code
-- Tableau
-- Power BI
-- Excel
-- Jupyter Notebook
-- Looker
-
+Языки и средства программирования:
+SQL, MySQL, Python, PyCharm, Visual Studio Code, Tableau, Power BI, Excel, Jupyter Notebook, Looker
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,vscode)](https://skillicons.dev)
 ## Статистика аккаунта
 
 # Статистика языков программирования
