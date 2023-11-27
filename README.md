@@ -7,7 +7,7 @@
 
 ## Просмотры профиля
 
-![Profile Views](https://komarev.com/ghpvc/?username=ваш_пользовательный_идентификатор)
+![Profile Views](https://komarev.com/ghpvc/?username=stelen1104)
 
 ## Обо мне
 
