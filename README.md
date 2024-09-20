@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Bryukhanov
 =========================================================================================================================================
 
-Data Analyst
+Web-Developer(Frontend begginer)
 ------------
 
 Hi! My name is Nikita, I am 19 years old. I am a sophomore in the sphere of Fundamental Informatics and Information Technology at South Ural State University. In my free time, I prefer to play computer games with friends or do self-study. My interests include: data analysis, learning new Python libraries for it, as well as watching movies and training videos in my direction on YouTube. Besides, I'm learning English. I am currently practicing SQL in MySQL and PostgreSQL. If you have any questions or would like to contact me, do not hesitate to contact me via my social networks or work e-mail.
