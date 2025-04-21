@@ -1,35 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Bryukhanov
-=========================================================================================================================================
+<h1 align="center">Hi there! 👋 I'm Nikita Bryukhanov</h1>
 
-Web-Developer(Frontend begginer)
-------------
-
-Hi! My name is Nikita, I am 19 years old. I am a sophomore in the sphere of Fundamental Informatics and Information Technology at South Ural State University. In my free time, I prefer to play computer games with friends or do self-study. My interests include: data analysis, learning new Python libraries for it, as well as watching movies and training videos in my direction on YouTube. Besides, I'm learning English. I am currently practicing SQL in MySQL and PostgreSQL. If you have any questions or would like to contact me, do not hesitate to contact me via my social networks or work e-mail.
-
-* 🌍  I'm based in Chelyabinsk, Russia
-* ✉️  You can contact me at [stelen1104@icloud.com](mailto:stelen1104@icloud.com)
-* 🧠  I'm learning SQL and Python
-
-<a href="https://www.github.com/stelen1104" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/stelen1104?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/stelen11" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/stelen11?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a 
+<p align="center">
+  <em>Web Developer (Frontend beginner)</em> <br>
+  💻 Student · 🎮 Gamer · 📚 Self-learner
 </p>
 
+---
 
-### Socials
+### 👨‍🎓 About Me
 
-<p align="left"> <a href="https://discord.com/users/541183828413382676" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/stelen1104" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@stelen455" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/stelen11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+Hi! I'm Nikita, a 20-year-old 3rd-year undergraduate student at **South Ural State University**, majoring in *Fundamental Informatics and Information Technologies*.  
+In my free time, I enjoy playing games with friends, studying new technologies, and watching coding tutorials or tech content on YouTube.
 
-### Badges
+My current focus is on frontend development and improving my English skills *(now A2, heading towards B2)*.  
+I’m also practicing **SQL** with MySQL and PostgreSQL and enjoy using **Python** for data analysis.
 
-<b>My GitHub Stats</b>
+- 🌍 Based in: Chelyabinsk, Russia  
+- 📬 Email: [stelen1104@icloud.com](mailto:stelen1104@icloud.com)  
+- 🧠 Currently learning: Frontend stack (see below), SQL, English
 
-<a href="http://www.github.com/stelen1104"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stelen1104&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/stelen1104" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelen1104&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🛠️ Technologies & Tools I Want to Master
+
+- **HTML5** – semantic and clean markup  
+- **CSS3** – responsive layouts, Flexbox, Grid  
+- **SCSS** – powerful CSS preprocessor  
+- **JavaScript** – core language of the web  
+- **TypeScript** – type safety in JS projects  
+- **React** – building dynamic UIs with hooks  
+- **Redux / Redux Toolkit** – state management  
+- **REST API** – client-server communication  
+- **Axios / Fetch** – handling HTTP requests  
+- **React Router** – routing in single-page apps  
+- **React Hook Form** – form handling and validation  
+- **Tailwind CSS** – utility-first CSS framework  
+- **Figma** – UI/UX design and prototyping  
+- **Git** – version control and collaboration on GitHub  
+
+---
+
+### 📚 Currently Learning
+
+- SQL (MySQL, PostgreSQL)
+- Frontend basics (HTML, CSS, JavaScript)
+- Python for data analysis
+- English (A2 → B2)
+
+---
+
+### 🔗 Social Links
+
+<p align="left">
+  <a href="https://discord.com/users/541183828413382676" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+  </a>
+  <a href="https://github.com/stelen1104" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@stelen455" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
+  </a>
+  <a href="https://www.twitch.tv/stelen11" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stelen1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelen1104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Let's Connect
+
+I'm open to collaborations, study groups, and friendly tech talks. Feel free to reach out!
+
