@@ -54,7 +54,7 @@ I’m also practicing **SQL** with MySQL and PostgreSQL and enjoy using **Python
 - 💬 [Telegram](https://t.me/nikitabryuhanov)
 - 📘 [VK](https://vk.com/lerrooii)
 - 🎮 [Twitch (игры: Dota 2)](https://www.twitch.tv/stelen11)
-- 🎥 [Twitch (аниме-запуски)](https://www.twitch.tv/stelen_zone)
+- 🎥 [Twitch (аниме)](https://www.twitch.tv/stelen_zone)
 - 💻 [GitHub](https://github.com/stelen1104)
 
 ---
