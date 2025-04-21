@@ -51,20 +51,11 @@ I’m also practicing **SQL** with MySQL and PostgreSQL and enjoy using **Python
 
 ### 🔗 Social Links
 
-<p align="left">
-  <a href="https://discord.com/users/541183828413382676" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-  </a>
-  <a href="https://github.com/stelen1104" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.youtube.com/@stelen455" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
-  </a>
-  <a href="https://www.twitch.tv/stelen11" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
-  </a>
-</p>
+- 💬 [Telegram](https://t.me/nikitabryuhanov)
+- 📘 [VK](https://vk.com/lerrooii)
+- 🎮 [Twitch (игры: Dota 2)](https://www.twitch.tv/stelen11)
+- 🎥 [Twitch (аниме-запуски)](https://www.twitch.tv/stelen_zone)
+- 💻 [GitHub](https://github.com/stelen1104)
 
 ---
 
