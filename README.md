@@ -16,7 +16,7 @@ My current focus is on frontend development and improving my English skills *(no
 I’m also practicing **SQL** with MySQL and PostgreSQL and enjoy using **Python** for data analysis.
 
 - 🌍 Based in: Chelyabinsk, Russia  
-- 📬 Email: [stelen1104@icloud.com](mailto:stelen1104@icloud.com)  
+- 📬 Email: [nikitabryuhanov@icloud.com](mailto:nikitabryuhanov@icloud.com)  
 - 🧠 Currently learning: Frontend stack (see below), SQL, English
 
 ---
