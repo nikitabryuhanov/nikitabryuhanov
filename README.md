@@ -53,21 +53,6 @@ I’m also practicing **SQL** with MySQL and PostgreSQL and enjoy using **Python
 
 - 💬 [Telegram](https://t.me/nikitabryuhanov)
 - 📘 [VK](https://vk.com/lerrooii)
-- 🎮 [Twitch (игры: Dota 2)](https://www.twitch.tv/stelen11)
-- 🎥 [Twitch (аниме)](https://www.twitch.tv/stelen_zone)
-- 💻 [GitHub](https://github.com/stelen1104)
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stelen1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelen1104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
