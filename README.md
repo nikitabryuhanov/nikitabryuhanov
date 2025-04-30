@@ -1,62 +1,69 @@
-<h1 align="center">Hi there! 👋 I'm Nikita Bryukhanov</h1>
-
-<p align="center">
-  <em>Web Developer (Frontend beginner)</em> <br>
-  💻 Student · 🎮 Gamer · 📚 Self-learner
-</p>
-
----
-
-### 👨‍🎓 About Me
-
-Hi! I'm Nikita, a 20-year-old 3rd-year undergraduate student at **South Ural State University**, majoring in *Fundamental Informatics and Information Technologies*.  
-In my free time, I enjoy playing games with friends, studying new technologies, and watching coding tutorials or tech content on YouTube.
-
-My current focus is on frontend development and improving my English skills *(now A2, heading towards B2)*.  
-I’m also practicing **SQL** with MySQL and PostgreSQL and enjoy using **Python** for data analysis.
-
-- 🌍 Based in: Chelyabinsk, Russia  
-- 📬 Email: [nikitabryuhanov@icloud.com](mailto:nikitabryuhanov@icloud.com)  
-- 🧠 Currently learning: Frontend stack (see below), SQL, English
+```markdown
+<h1 align="center">👋 Привет! Я Никита Брюханов</h1>
+<h3 align="center">
+  <a href="#en">EN</a> | 
+  <a href="#ru">RU</a>
+</h3>
 
 ---
 
-### 🛠️ Technologies & Tools I Want to Master
+<div id="en"></div>
 
-- **HTML5** – semantic and clean markup  
-- **CSS3** – responsive layouts, Flexbox, Grid  
-- **SCSS** – powerful CSS preprocessor  
-- **JavaScript** – core language of the web  
-- **TypeScript** – type safety in JS projects  
-- **React** – building dynamic UIs with hooks  
-- **Redux / Redux Toolkit** – state management  
-- **REST API** – client-server communication  
-- **Axios / Fetch** – handling HTTP requests  
-- **React Router** – routing in single-page apps  
-- **React Hook Form** – form handling and validation  
-- **Tailwind CSS** – utility-first CSS framework  
-- **Figma** – UI/UX design and prototyping  
-- **Git** – version control and collaboration on GitHub  
+# 💻 Nikita Bryukhanov | Frontend Developer (Beginner)
 
----
+## 👨‍💻 About Me
+- 🎓 3rd year student at South Ural State University (SUSU)
+- 🌱 Currently learning: Frontend stack (HTML/CSS/JS/React) + TypeScript
+- 💡 Interested in web development and data analysis
+- 🎯 Goals: Become a Frontend Developer + improve English to B2
+- 📫 How to reach me: [Telegram](https://t.me/nikitabryuhanov) | [Email](mailto:nikitabryuhanov@icloud.com)
 
-### 📚 Currently Learning
+## 🛠️ Tech Stack
+### Mastering Now
+| Frontend         | Tools            | Other           |
+|------------------|------------------|-----------------|
+| HTML5            | Git/GitHub       | Python          |
+| CSS3/SCSS        | Figma            | MySQL           |
+| JavaScript (ES6+)| React Router     | PostgreSQL      |
+| React            | Redux Toolkit    |                 |
+| TypeScript       | Tailwind CSS     |                 |
 
-- SQL (MySQL, PostgreSQL)
-- Frontend basics (HTML, CSS, JavaScript)
-- Python for data analysis
-- English (A2 → B2)
+### Already Mastered
+- ✅ Git version control
+- ✅ Basic CLI usage
 
----
-
-### 🔗 Social Links
-
-- 💬 [Telegram](https://t.me/nikitabryuhanov)
-- 📘 [VK](https://vk.com/lerrooii)
+## 🌐 Socials
+[![VK](https://img.shields.io/badge/VK-%230077B5.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/lerrooii)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikitabryuhanov)
 
 ---
 
-### 🚀 Let's Connect
+<div id="ru"></div>
 
-I'm open to collaborations, study groups, and friendly tech talks. Feel free to reach out!
+# 💻 Никита Брюханов | Frontend-разработчик (начинающий)
 
+## 👨‍💻 Обо мне
+- 🎓 Студент 3 курса ЮУрГУ (Фундаментальная информатика и ИТ)
+- 🌱 Сейчас изучаю: Frontend стек (HTML/CSS/JS/React) + TypeScript
+- 💡 Интересуюсь веб-разработкой и анализом данных
+- 🎯 Цели: Стать Frontend разработчиком + улучшить английский до B2
+- 📫 Связь со мной: [Telegram](https://t.me/nikitabryuhanov) | [Email](mailto:nikitabryuhanov@icloud.com)
+
+## 🛠️ Стек технологий
+### Осваиваю сейчас
+| Frontend         | Инструменты      | Другое          |
+|------------------|------------------|-----------------|
+| HTML5            | Git/GitHub       | Python          |
+| CSS3/SCSS        | Figma            | MySQL           |
+| JavaScript (ES6+)| React Router     | PostgreSQL      |
+| React            | Redux Toolkit    |                 |
+| TypeScript       | Tailwind CSS     |                 |
+
+### Уже освоил
+- ✅ Система контроля версий Git
+- ✅ Базовое использование командной строки
+
+## 🌐 Соцсети
+[![VK](https://img.shields.io/badge/VK-%230077B5.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/lerrooii)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikitabryuhanov)
+```
