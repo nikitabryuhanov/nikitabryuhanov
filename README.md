@@ -9,7 +9,7 @@
 
 <div id="en"></div>
 
-# 💻 Nikita Bryukhanov — Frontend Developer (Junior)
+# 💻 Nikita Bryuhanov — Frontend Developer (Junior)
 
 ## 👨‍💻 About Me
 - 🎓 3rd-year IT student at South Ural State University (SUSU)
