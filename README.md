@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 3rd-year IT student at South Ural State University (SUSU)
-- 💡 Passionate about frontend, design systems and accessibility
+- 💡 Passionate about frontend and english language
 - 🚀 Currently learning React, TypeScript, Vite, Tailwind
 - 🔭 Goal: Build beautiful and accessible user interfaces
 - 🌍 Also improving my English to B2 level
@@ -89,7 +89,7 @@
 
 ## 👨‍💻 Обо мне
 - 🎓 Студент 3 курса ЮУрГУ, направление «Информатика и ИТ»
-- 💡 Увлекаюсь фронтендом, визуальной разработкой, дизайном и анимацией
+- 💡 Увлекаюсь фронтендом и английским языком
 - 🚀 Осваиваю React, TypeScript, Tailwind и Vite
 - 🔭 Хочу создавать удобные, адаптивные и красивые интерфейсы
 - 🌍 Цель: трудоустройство на позицию Junior frontend + English B2
